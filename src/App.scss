@@ -1,0 +1,12 @@
+.container {
+  padding: 10px 20px;
+  box-sizing: border-box;
+
+  @media (max-width: 768px) {
+    padding: 10px 15px;
+  }
+
+  @media (max-width: 480px) {
+    padding: 8px 10px;
+  }
+}

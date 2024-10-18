@@ -1,0 +1,19 @@
+@import "../../colors.scss";
+
+.app-footer-container {
+  background: $greyDark;
+  color: white;
+
+  p {
+    font-weight: bold;
+    font-size: 20px;
+
+    @media (max-width: 768px) {
+      font-size: 16px;
+    }
+
+    @media (max-width: 480px) {
+      font-size: 14px;
+    }
+  }
+}

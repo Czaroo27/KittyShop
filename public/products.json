@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "name": "Hello Kitty Plush Toy",
+    "description": "Soft and cuddly Hello Kitty plush toy, perfect for hugs.",
+    "originalPrice": 29.99,
+    "discountPrice": 19.99,
+    "img": "https://i5.walmartimages.com/seo/Sanrio-Friends-Hello-Kitty-Plush_9f4136b3-6a05-4c93-9c0b-1434ccaf61b3.9c89b1d04a7c4e244863bfb090c010f6.jpeg",
+    "category": "Toys"
+  },
+  {
+    "id": 2,
+    "name": "Hello Kitty Backpack",
+    "description": "Adorable Hello Kitty backpack for school or travel.",
+    "originalPrice": 39.99,
+    "discountPrice": 29.99,
+    "img": "https://www.sanrio.com/cdn/shop/products/671803231092_1200x.jpg?v=1679012055",
+    "category": "Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Hello Kitty Mug",
+    "description": "Cute Hello Kitty ceramic mug for your favorite beverages.",
+    "originalPrice": 14.99,
+    "discountPrice": 9.99,
+    "img": "https://m.media-amazon.com/images/I/51MNSwMYiWS.jpg",
+    "category": "Kitchenware"
+  },
+  {
+    "id": 4,
+    "name": "Hello Kitty T-Shirt",
+    "description": "Stylish Hello Kitty t-shirt made from 100% cotton.",
+    "originalPrice": 19.99,
+    "discountPrice": 14.99,
+    "img": "https://fesswybitnie.com/wp-content/uploads/2024/02/czarna-koszulka-hello-kitty-bubble-tea.jpg",
+    "category": "Apparel"
+  },
+  {
+    "id": 5,
+    "name": "Hello Kitty Stationery Set",
+    "description": "Complete stationery set featuring Hello Kitty designs.",
+    "originalPrice": 24.99,
+    "discountPrice": 17.99,
+    "img": "https://m.media-amazon.com/images/I/81Uh8KLHhTL.jpg",
+    "category": "Stationery"
+  },
+  {
+    "id": 6,
+    "name": "Hello Kitty Phone Case",
+    "description": "Durable phone case with adorable Hello Kitty graphics.",
+    "originalPrice": 15.99,
+    "discountPrice": 10.99,
+    "img": "https://shopsonix.com/cdn/shop/files/Hello_Kitty_Strawberry_Milk_iPhone14Pro_Front_WEB.jpg?width=1200",
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "name": "Hello Kitty Wall Art",
+    "description": "Cute wall art featuring Hello Kitty, perfect for decorating.",
+    "originalPrice": 39.99,
+    "discountPrice": 29.99,
+    "img": "https://www.artisto.pl/__products/artisto/49746/0da266089b14b52b84dfaf71e98006a0/preview-xl.jpg",
+    "category": "Home Decor"
+  },
+  {
+    "id": 8,
+    "name": "Hello Kitty Umbrella",
+    "description": "Fun Hello Kitty umbrella to brighten up rainy days.",
+    "originalPrice": 22.99,
+    "discountPrice": 15.99,
+    "img": "https://media.cdn.kaufland.de/product-images/1024x1024/d951225a4b960355b23ea309dd773d83.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 9,
+    "name": "Hello Kitty Cookie Cutter",
+    "description": "Make cute Hello Kitty-shaped cookies with this cookie cutter.",
+    "originalPrice": 9.99,
+    "discountPrice": 5.99,
+    "img": "https://helloshopla.com/cdn/shop/files/HK-C50XSTMP_SILO2_2ab28141-1ba3-4940-a8c8-c693ab8f7234_grande.webp?v=1725563399",
+    "category": "Kitchenware"
+  },
+  {
+    "id": 10,
+    "name": "Hello Kitty Bedspread",
+    "description": "Cozy bedspread featuring Hello Kitty designs, perfect for kids.",
+    "originalPrice": 100,
+    "discountPrice": 39.99,
+    "img": "https://m.media-amazon.com/images/I/7162X1oedwL.jpg",
+    "category": "Bedding"
+  },
+  {
+    "id": 11,
+    "name": "Hello Kitty Lunchbox",
+    "description": "Keep your lunch fresh and cute with this Hello Kitty lunchbox.",
+    "originalPrice": 19.99,
+    "discountPrice": 13.99,
+    "img": "https://cdn.media.amplience.net/i/primark/991093199352_01",
+    "category": "Accessories"
+  },
+  {
+    "id": 12,
+    "name": "Hello Kitty Pencil Case",
+    "description": "Organize your stationery with this Hello Kitty pencil case.",
+    "originalPrice": 12.99,
+    "discountPrice": 7.99,
+    "img": "https://cdn.media.amplience.net/i/primark/991085247306_01",
+    "category": "Stationery"
+  },
+  {
+    "id": 13,
+    "name": "Hello Kitty Pillow",
+    "description": "Soft and comfy Hello Kitty pillow, perfect for your bedroom.",
+    "originalPrice": 25.99,
+    "discountPrice": 18.99,
+    "img": "https://www.sanrio.com/cdn/shop/files/898961-Zoom.2_1200x.jpg?v=1696544661",
+    "category": "Bedding"
+  },
+  {
+    "id": 14,
+    "name": "Hello Kitty Earrings",
+    "description": "Cute Hello Kitty earrings, perfect for adding a fun touch to any outfit.",
+    "originalPrice": 14.99,
+    "discountPrice": 9.99,
+    "img": "https://i5.walmartimages.com/seo/Hello-Kitty-Sterling-Silver-Crystal-Stud-Earrings_6a9ce199-f08a-479a-ac13-48d774b1490f.21a58ac598956a63566efa62c8f0ef1f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+    "category": "Accessories"
+  },
+  {
+    "id": 15,
+    "name": "Hello Kitty Bath Towel",
+    "description": "Soft bath towel featuring Hello Kitty, ideal for kids and fans.",
+    "originalPrice": 29.99,
+    "discountPrice": 19.99,
+    "img": "https://assets.ptimgs.com/ptimgs/rk/images/dp/wcm/202437/0311/hello-kitty-pink-towel-o.jpg",
+    "category": "Home Decor"
+  },
+  {
+    "id": 16,
+    "name": "Hello Kitty Water Bottle",
+    "description": "Stay hydrated with this cute Hello Kitty water bottle.",
+    "originalPrice": 15.99,
+    "discountPrice": 11.99,
+    "img": "https://m.media-amazon.com/images/I/51Y7B5wdUTL.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 17,
+    "name": "Hello Kitty Blanket",
+    "description": "Super soft Hello Kitty blanket to keep you warm.",
+    "originalPrice": 49.99,
+    "discountPrice": 34.99,
+    "img": "https://m.media-amazon.com/images/I/81UdGYe7p1L.jpg",
+    "category": "Bedding"
+  },
+  {
+    "id": 18,
+    "name": "Hello Kitty Slippers",
+    "description": "Comfortable Hello Kitty slippers for lounging at home.",
+    "originalPrice": 19.99,
+    "discountPrice": 13.99,
+    "img": "https://fuzzybabba.com/cdn/shop/products/1FWNYH2E1Q-SOlQf0RLAUdXPi4UG0fk4e11lkCFaGvI_1946x.png?v=1695845603",
+    "category": "Apparel"
+  },
+  {
+    "id": 19,
+    "name": "Hello Kitty Pusheen",
+    "description": "Soft and cuddly Hello Kitty plush toy, perfect for hugs.",
+    "originalPrice": 39.99,
+    "discountPrice": 25.99,
+    "img": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/3c8281c8-27b1-48c8-9a21-26586fcd46fb-retina-large.jpg",
+    "category": "Toys"
+  }
+]
